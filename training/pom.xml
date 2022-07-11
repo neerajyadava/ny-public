@@ -23,7 +23,7 @@
 	</build>
 	<properties>
 		<java.version>11</java.version>
-		<version.spring.boot>1.5.19.RELEASE</version.spring.boot>
+		<version.spring.boot>2.2.11.RELEASE</version.spring.boot>
 	</properties>
 
 	<dependencies>
